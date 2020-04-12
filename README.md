@@ -1,2 +1,3 @@
 # Bill
- Fill bill passes or vegetables
+ يملأ فاتورة أو الخضار
+.[عدل]
